@@ -1,8 +1,5 @@
 # 3DViewer v1.0
 
-> При старте работы над проектом просим тебя постараться хронометрировать время работы над проектом.
-> По завершении работы над проектом, пожалуйста, ответь на два вопроса [в этом опросе](https://forms.gle/51aADrXJGHYH9jEi6)
-
 Implementation of 3DViewer v1.0.
 
 The russian version of the task can be found in the repository.
